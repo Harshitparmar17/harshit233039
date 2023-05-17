@@ -1,0 +1,10 @@
+functional requirements
+job managment sytem
+for applying the job  the candidate should have all there authentic documents for
+which contains name,address,quallifications,age etc which can be upload on the portal.
+jobseekers should see the reqruitment criteria and job details on the portal and can apply accordingly
+
+ Employee Document Management
+The system should allow employees to upload and store relevant documents such as resumes, certifications, and performance reports.
+Supervisors or HR personnel should be able to review and manage employee documents.
+Access control mechanisms should be implemented to ensure the privacy and security of sensitive employee information.

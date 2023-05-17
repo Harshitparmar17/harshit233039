@@ -1,0 +1,31 @@
+business entities -
+job seekers cv-
+first name ,
+last name, 
+qualification,
+age,
+experiences
+dob
+email id
+
+documents id
+file name
+file no
+
+admin 
+job details
+email id
+
+
+create table candidate(
+first name,
+last name,
+qualification,
+age,experiences,
+dob,
+email id
+
+create table document(
+document id primary key,
+file name,
+file no

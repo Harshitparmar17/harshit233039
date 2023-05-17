@@ -1,0 +1,15 @@
+employee recruitment system
+non functional requirements-
+﻿Software Requirements Specification (SRS) for an Employee recruitment System:
+1. Introduction
+The Employee Management System is a software solution designed to streamline and automate various employee-related processes within an organization. It aims to centralize employee information, facilitate efficient management of employee data, and improve overall HR operations. This document outlines the software requirements for the Employee Management System.
+
+
+2. Scope
+The Employee recruitment System will provide the following features:
+
+
+Employee registration and profile management.
+
+jobseekers document management.
+Reporting and analytics.
